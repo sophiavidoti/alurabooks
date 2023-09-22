@@ -1,0 +1,13 @@
+@import url("style/header.css");
+@import url("style/banner.css");
+@import url("style/carrosel.css");
+@import url("style/topicos.css");
+@import url("style/contato.css");
+@import url("style/header.css");
+@import url("style/rodape.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+} 
+body {
+   background-color: var(--cor-de-fundo);
+}
